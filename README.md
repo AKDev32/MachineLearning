@@ -1,5 +1,6 @@
 # Topics Covered in Machine Learning
 
+
 ## Python
 Python is a high-level, interpreted programming language known for its easy readability and broad applicability. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
